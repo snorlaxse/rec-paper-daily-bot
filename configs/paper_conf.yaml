@@ -1,0 +1,23 @@
+# 关键词匹配，只有标题或摘要包含这些词的论文才会被推送
+keywords:
+  - Recommendation System
+  - CTR
+  - Click-Through Rate
+  - Information Retrieval
+  - Deep Learning
+  - Contrastive Learning
+  - Embedding
+  - Re-ranking
+  - Multi-task Learning
+
+# 监控的来源
+sources:
+  - arxiv
+  - kdd
+  - sigir
+  - recsys
+
+# 翻译配置
+translation:
+  engine: caiyun
+  target_lang: zh
